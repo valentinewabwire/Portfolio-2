@@ -1,7 +1,7 @@
 # Portfolio-2
 
 Second portfolio made by <br>
-HTML
-CSS
-PHP
-Javascript
+HTML<br>
+CSS<br>
+PHP<br>
+Javascript<br>
