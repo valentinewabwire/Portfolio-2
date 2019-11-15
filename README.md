@@ -1,6 +1,6 @@
 # Portfolio-2
 
-Second portfolio made by <br>
+Second portfolio made with <br>
 HTML<br>
 CSS<br>
 PHP<br>
